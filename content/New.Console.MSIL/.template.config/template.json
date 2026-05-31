@@ -1,0 +1,23 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "John Davis",
+  "classifications": [
+    "console"
+  ],
+  "sourceName": "New.Console.MSIL",
+  "name": "New MSIL Console App",
+  "description": "Console Application in Pure MSIL",
+  "precedence": "0",
+  "identity": "JohnDavisDotDev.IL.ConsoleApp",
+  "shortName": "msil-console",
+  "tags": {
+    "language": "MSIL",
+    "type": "solution"
+  },
+  "preferNameDirectory": true,
+  "primaryOutputs": [
+    {
+      "path": "New.Console.MSIL.ilproj"
+    }
+  ]
+}

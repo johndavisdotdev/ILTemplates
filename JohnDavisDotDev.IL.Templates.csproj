@@ -2,12 +2,13 @@
 
   <PropertyGroup>
     <PackageId>JohnDavisDotDev.IL.Templates</PackageId>
-    <PackageVersion>1.0</PackageVersion>
+    <PackageVersion>1.0.6</PackageVersion>
     <Title>John Davis .NET IL Templates</Title>
     <Authors>John Davis</Authors>
     <Description>Templates for .NET Intermediate Language (IL) projects.</Description>
     <PackageTags>IL, .NET, Templates</PackageTags>
     <PackageProjectUrl>https://github.com/johndavisdotdev/ILTemplates</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
 
     <!-- Keep package type as 'Template' to show the package as a template package on nuget.org and make your template available in dotnet new search.-->
     <PackageType>Template</PackageType>

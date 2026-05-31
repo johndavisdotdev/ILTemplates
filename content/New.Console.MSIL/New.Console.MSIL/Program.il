@@ -1,7 +1,7 @@
 .assembly extern System.Runtime {}
 .assembly extern System.Console {}
 
-.assembly 'ILApp' {}
+.assembly 'New.Console.MSIL' {}
 
 .class private auto ansi beforefieldinit Program extends [System.Runtime]System.Object
 {
