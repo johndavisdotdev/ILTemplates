@@ -1,0 +1,6 @@
+<Solution>
+  <Configurations>
+    <ProjectType Id="MSIL" Extension=".ilproj" TypeId="a73a1524-c283-4d23-b6ec-b14c5547168e" />
+  </Configurations>
+  <Project Path="ILApp/ILApp.ilproj" Type="MSIL" />
+</Solution>
